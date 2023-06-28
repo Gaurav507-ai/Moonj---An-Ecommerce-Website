@@ -1,19 +1,19 @@
-# The Moonj web application enables Moonj(grass) products business to set up shop online and customers can buy Moonj products online. This Project was created using Django, HTML, CSS, JavaScript, SqlLite.
+## The Moonj web application enables Moonj(grass) products business to set up shop online and customers can buy Moonj products online. This Project was created using Django, HTML, CSS, JavaScript, SqlLite.
 
-## Website Images
+### Website Images
 
-### Homepage Image
+#### Homepage Image
 
 ![](./Images/HomePage.PNG)
 
-### Loginpage Image
+#### Loginpage Image
 
 ![](./Images/LoginPage.PNG)
 
-### Productspage Image
+#### Productspage Image
 
 ![](./Images/Products.PNG)
 
-### Cartpage Image
+#### Cartpage Image
 
 ![](./Images/Cart.PNG)
